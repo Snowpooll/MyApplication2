@@ -12,10 +12,9 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.snowpool.myapplication.MainActivity">
 
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"/>
-
-
+        android:text="Hello Android"/>
 </LinearLayout>
